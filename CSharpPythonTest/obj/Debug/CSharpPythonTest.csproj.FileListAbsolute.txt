@@ -1,0 +1,9 @@
+C:\Users\vadim\source\repos\CSharpPythonTest\CSharpPythonTest\bin\Debug\CSharpPythonTest.exe
+C:\Users\vadim\source\repos\CSharpPythonTest\CSharpPythonTest\bin\Debug\CSharpPythonTest.pdb
+C:\Users\vadim\source\repos\CSharpPythonTest\CSharpPythonTest\obj\Debug\CSharpPythonTest.frmMain.resources
+C:\Users\vadim\source\repos\CSharpPythonTest\CSharpPythonTest\obj\Debug\CSharpPythonTest.Properties.Resources.resources
+C:\Users\vadim\source\repos\CSharpPythonTest\CSharpPythonTest\obj\Debug\CSharpPythonTest.csproj.GenerateResource.cache
+C:\Users\vadim\source\repos\CSharpPythonTest\CSharpPythonTest\obj\Debug\CSharpPythonTest.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\CSharpPythonTest\CSharpPythonTest\obj\Debug\CSharpPythonTest.exe
+C:\Users\vadim\source\repos\CSharpPythonTest\CSharpPythonTest\obj\Debug\CSharpPythonTest.pdb
+C:\Users\vadim\source\repos\CSharpPythonTest\CSharpPythonTest\bin\Debug\CSharpPythonTest.exe.config
